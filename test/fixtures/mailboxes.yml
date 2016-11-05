@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  message: MyText
+  inappropriate: false
+  profile_id: 
+  company_id: 
+  recruiter_id: 
+
+two:
+  message: MyText
+  inappropriate: false
+  profile_id: 
+  company_id: 
+  recruiter_id: 
