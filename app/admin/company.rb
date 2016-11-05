@@ -1,4 +1,5 @@
 ActiveAdmin.register Company do
+  permit_params :name, :logo, :hero_image, :headline, :description, :website, :career_section, :blog, :contact_email, :phone
 
 # See permitted parameters documentation:
 # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
