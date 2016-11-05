@@ -4,4 +4,5 @@ class Company < ActiveRecord::Base
   has_many :mailboxes
   validates_formatting_of :website, using: :url
   validates_formatting_of :career_section, using: :url
+  validates_formatting_of :blog, using: :url
 end
