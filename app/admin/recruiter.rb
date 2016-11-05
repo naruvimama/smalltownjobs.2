@@ -1,4 +1,5 @@
 ActiveAdmin.register Recruiter do
+  permit_params :name, :picture, :location, :headline, :summary, :contact_email, :contact_phone, :specialization, :professional_profile, :stats
 
 # See permitted parameters documentation:
 # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
