@@ -3,4 +3,5 @@ class Recruiter < ActiveRecord::Base
   belongs_to :company
   has_many :mailboxes
   has_many :jobposts
+  validates_formatting_of :contact_email, using: :email
 end
