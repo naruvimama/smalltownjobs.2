@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rating: 1
+  message: MyText
+  active: false
+  profile_id: 
+  jobpost_id: 
+  status: 
+
+two:
+  rating: 1
+  message: MyText
+  active: false
+  profile_id: 
+  jobpost_id: 
+  status: 
