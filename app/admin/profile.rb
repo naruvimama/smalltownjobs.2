@@ -1,4 +1,5 @@
 ActiveAdmin.register Profile do
+  permit_params :headline, :summary, :sex, :dob, :active, :i_ranked, :stats, :resume, :skills, :location, :professional_profile
 
 # See permitted parameters documentation:
 # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
