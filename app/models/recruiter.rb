@@ -4,4 +4,5 @@ class Recruiter < ActiveRecord::Base
   has_many :mailboxes
   has_many :jobposts
   validates_formatting_of :contact_email, using: :email
+  acts_as_votable 
 end
