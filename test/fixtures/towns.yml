@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  state: MyString
+  country: 1
+  nearest_town: 1
+  distance_to_nearest_town_miles: 9.99
+  distance_to_nearest_town_km: 9.99
+  tags: 
+  child_friendly: 1.5
+  bike_friendly: 1.5
+  nature: 1.5
+  housing_price_index: 1.5
+  living_cost_index: 1.5
+  commute_reliability: 1.5
+  livability_index: 1.5
+  air_polution_index: 1.5
+  hazard: 1.5
+  recreation: 1.5
+  emergency_care: 1.5
+  facilities: 
+  tags: 
+
+two:
+  name: MyString
+  state: MyString
+  country: 1
+  nearest_town: 1
+  distance_to_nearest_town_miles: 9.99
+  distance_to_nearest_town_km: 9.99
+  tags: 
+  child_friendly: 1.5
+  bike_friendly: 1.5
+  nature: 1.5
+  housing_price_index: 1.5
+  living_cost_index: 1.5
+  commute_reliability: 1.5
+  livability_index: 1.5
+  air_polution_index: 1.5
+  hazard: 1.5
+  recreation: 1.5
+  emergency_care: 1.5
+  facilities: 
+  tags: 
