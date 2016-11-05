@@ -6,4 +6,5 @@ class Company < ActiveRecord::Base
   validates_formatting_of :career_section, using: :url
   validates_formatting_of :blog, using: :url
   validates_formatting_of :contact_email, using: :email
+  acts_as_votable 
 end
