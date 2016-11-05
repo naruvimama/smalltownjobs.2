@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  headline: MyString
+  summary: MyText
+  sex: false
+  dob: 2016-11-05
+  active: false
+  i_ranked: 
+  stats: 
+  user_id: 
+  resume: MyString
+  skills: 
+  location: MyText
+  professional_profile: 
+
+two:
+  headline: MyString
+  summary: MyText
+  sex: false
+  dob: 2016-11-05
+  active: false
+  i_ranked: 
+  stats: 
+  user_id: 
+  resume: MyString
+  skills: 
+  location: MyText
+  professional_profile: 
